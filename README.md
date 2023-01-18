@@ -4,6 +4,11 @@
 - TypeScript is transpiled into CJS via Rollup
 - Latest open.mp release
 
+## Steps
+
+- Get the project running locally (below)
+- Run `omp-server.exe` until `Testing` isn't printed to the console
+
 ## Run Locally
 
 Clone the project
