@@ -15,7 +15,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd script
+  cd samp-node-mvce
 ```
 
 Install dependencies
