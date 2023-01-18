@@ -24,6 +24,8 @@ Install dependencies
   npm install
 ```
 
+Add your database details to `index.ts`
+
 Compile
 
 ```bash
